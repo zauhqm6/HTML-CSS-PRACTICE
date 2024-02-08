@@ -1,0 +1,148 @@
+body {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+* {
+
+    margin:2px;
+}
+.header {
+    background-color: #d12e2e;
+    box-shadow: 0px 14px 20px 2px wheat;
+}
+.img1 {
+    border: 2px solid #444;
+    width: 25%;
+    height:150px;
+    border-radius:50%;
+    border-color: cadetblue;
+    box-shadow:-4px 2px 100px 6px aquamarine ;
+}
+.header nav {
+    padding:30px ;
+    border:2px solid transparent ;
+    background-color: rgb(90, 75, 88);
+    float:right;
+    width:45%;
+    margin-top: -125px;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow:2px 2px 2px 2px;
+
+}
+.header nav li {
+    list-style-type: none;
+    display: inline;
+    padding: 40px;
+    
+}
+.header nav li a {
+    text-decoration: none;
+    color: wheat;
+}
+.header nav li a:hover {
+    background-color: aquamarine;
+    color: black;
+
+}
+
+.bg img {
+    width:330px ;
+    height: 200px;
+    border: 20px inset whitesmoke;
+    margin: 20px;
+    box-shadow: 18px -9px 22px;
+}
+
+.h1 {
+    font-size: xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 1px 2px black, 0 0 25px yellow, 0 0 5px yellow;
+    margin: 69px;
+    border-bottom:8px solid red;
+    width: 321px;
+}
+
+.section{
+    display: flex;
+    background-color:linear-gradient(to bottom, #ff5050 0%, #9900cc 100%);
+}
+.p {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -48px;
+    text-align: justify;
+}
+.button  {
+    margin-left: 1220px;
+    
+    font-weight: bold;
+    width: fit-content;
+    margin-top: -29px;
+    
+}
+.container {
+    width: 80%;
+
+}
+.colright {
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+    background-color:darkslategrey;
+    height: 322px;
+    width:200px;
+    display:block;
+    border:2px solid white;
+    margin-top: -260px;
+    margin-left: 1125px;
+}
+.colright h3{
+ 
+    text-align: center;
+    color: wheat;
+    border-bottom: #444;
+    background-color: black;
+    margin: -5px;
+    font-size: large;
+    border-bottom: 1px solid white;
+    padding: 20px;
+
+}
+
+    .colright p {
+        font-family: 'Courier New', Courier, monospace;
+    margin-top: 9px;
+    text-align: justify;
+    color: azure;
+    border-bottom: 1px inset white;
+    
+}
+
+.colright p a{
+    text-decoration: none;
+    color: azure;
+}
+
+
+h2 {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    padding-top: 50px;
+    color:black;
+    text-shadow:2px 2px 2px white;
+    border-left: 8px solid red;
+    height: 80px;
+
+
+}
+  
+    h4 {
+        text-align: left;
+        padding-top: 100px;
+        margin-left: 0px;
+    }
+    .p2 {
+        border-width: 60%;
+    }
